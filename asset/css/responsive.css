@@ -134,12 +134,7 @@
     .wrapper{
         align-items:center;
     }
-    .header-cart:hover .header-cart-hasItem
-    {
-        pointer-events: none;
-    }
-    .show-cart{
-        display:block;
-    }
+    
+    
 
 }
